@@ -5,3 +5,6 @@ nav {
 header {
     width: 100%;
 }
+ul.navbar-nav li a.active {
+    background-color: #801200;
+}
